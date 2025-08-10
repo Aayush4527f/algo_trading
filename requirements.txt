@@ -1,6 +1,9 @@
 pandas
 pyotp
-angel-one-smartapi-python
+smartapi-python
 requests
 SQLAlchemy
 scipy
+pytz
+Flask
+gunicorn
