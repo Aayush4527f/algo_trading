@@ -1,0 +1,6 @@
+pandas
+pyotp
+angel-one-smartapi-python
+requests
+SQLAlchemy
+scipy
